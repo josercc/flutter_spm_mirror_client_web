@@ -1,0 +1,3 @@
+[submodule "submodules/flutter_winner_app"]
+	path = submodules/flutter_winner_app
+	url = http://192.168.206.220/flutter-app/flutter_winner_app.git
